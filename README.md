@@ -3,7 +3,7 @@
 
 [Table of Contents - Useful Red Hat Links](https://github.com/pslucas0212/UsefulRedHatLinks)
 
-Note: This purpose of this document is to explain to a lay person the "All or nothing" Red Hat subscription policy.  This document does not provide a legal opinion or advice regarding Red Hat software subscription requirements.  Please check with your purchase and legal teams for advice.  If you have additional Red Hat software subscription questions, please contact your Red Hat Account Team.
+Note: This purpose of this document is to explain to a lay person the "All or nothing" Red Hat subscription policy.  This document does not provide a legal opinion or advice regarding Red Hat software subscription requirements.  Please check with your procurement and legal teams for advice.  If you have additional Red Hat software subscription questions, please contact your Red Hat Account Team.
 
 When purchasing a Red Hat software subscription, the customer agrees to terms in their contract with Red Hat.  The contract typically includes an agreement to  terms found in Red Hat Product Appendices.  Appendix 1 contains "the all or nothing" clause meaning if a customer is using Red Hat software they cannot selectively decide which instances need an active subscription.  For a particular Red Hat software product, active subscriptions is required for all instances.
 

@@ -13,6 +13,6 @@ As an example a customer is required to have active subscriptions for all RHEL i
 See the subsection "Under the Maximize subscription benefits - Are there subscription guidelines":   
 "Red Hat products are provided on a per-instance or per-installation subscription basis, which gives customers access to all subscription benefits during the subscription term. This means that while customers have an active subscription for a Red Hat product, they must maintain subscriptions for each and every instance or installation of Red Hat software being used in their environment."
 
-### [Appendix 1](https://www.redhat.com/licenses/Appendix_1_Global_English_20231205.pdf)
-From 1.2 Use of Subscription Services:  
+### [Appendix 1 (Software and Support Subscriptions)](https://www.redhat.com/licenses/Appendix_1_Global_English_20231205.pdf)
+From Appendix 1 section 1.2 Use of Subscription Services:  
 "While you have a Subscription entitling you to receive Subscription Services for a Red Hat Product, you are required to purchase the applicable Subscriptions in a quantity equal to the total number and capacity of Units for that Subscription from the commencement of your use or deployment of such Subscription or a part thereof."

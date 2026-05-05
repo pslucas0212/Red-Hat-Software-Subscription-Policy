@@ -3,7 +3,7 @@
 
 [Table of Contents - Useful Red Hat Links](https://github.com/pslucas0212/UsefulRedHatLinks)
 
-Information subject to change.  Last update 13 August 2024.  
+Information subject to change.  Last update 5 May 2026.  
 
 Note: This purpose of this document is to explain to a lay person the "All or nothing" Red Hat subscription policy.  This document does not provide a legal opinion or advice regarding Red Hat software subscription requirements.  Please check with your procurement and legal teams for advice.  If you have additional Red Hat software subscription questions, please contact your Red Hat Account Team.
 
